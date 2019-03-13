@@ -1,6 +1,6 @@
 # my-kicad-library
 
-KiCAD symbol/ footprint library and scripts used in my projects. Folder names should be self-explainatory.
+KiCAD symbol/ footprint library and scripts used in my projects. Folder names should be self-explainatory. Please be aware everything is provided AS-IS. Everything here are not guaranteed to be correct or working in any means, use at your own risk. Footprints may not match the recommended footprint in datasheets.
 
 ## License
 
